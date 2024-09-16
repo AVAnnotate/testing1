@@ -1,21 +1,88 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "AVAnnotate",
+    "title": "Sam's test :-)",
+    "description": "This is a test project for 9/16 meeting.",
+    "language": "en",
+    "slug": "testing1",
+    "creator": "saamturner",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Day of the week",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Topic",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tanya",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ben",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sara",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tuesday",
+          "category": "Day of the week"
+        },
+        {
+          "tag": "Thursday",
+          "category": "Day of the week"
+        },
+        {
+          "tag": "Wednesday",
+          "category": "Day of the week"
+        },
+        {
+          "tag": "Bob",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Film direction",
+          "category": "Topic"
+        },
+        {
+          "tag": "Film flaws",
+          "category": "Topic"
+        },
+        {
+          "tag": "Distortion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Car horn",
+          "category": "_uncategorized_"
+        }
+      ]
+    },
+    "created_at": "2024-09-16T18:32:59.440Z",
+    "updated_at": "2024-09-16T18:32:59.440Z"
   }
 }
